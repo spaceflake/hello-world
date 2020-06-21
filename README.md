@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+So this is me learning how this works. 
+Always fun to learn new things.
